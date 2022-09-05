@@ -1,6 +1,6 @@
 script 0 - prints the absolute path name of the currnt working directory
-1 - lists the content of the current working directory
-2 - changes the working directory to the user's home directory
+1. lists the content of the current working directory
+2. changes the working directory to the user's home directory
 3. displays current directory contents in a long format
 4. displays current directory contents, including hidden files 
 5. displays current directory contents
